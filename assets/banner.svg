@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Amner Llamo</title>
+  <desc id="desc">Portada para el perfil de GitHub: desarrollo backend con Java, Spring Boot e IA aplicada.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1829"/>
+      <stop offset="0.58" stop-color="#102D44"/>
+      <stop offset="1" stop-color="#123B4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4CC9C0"/>
+      <stop offset="1" stop-color="#71A8F8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#D5F5F5" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M0 262C214 183 337 352 557 262S958 189 1280 257" fill="none" stroke="#71A8F8" stroke-opacity=".12" stroke-width="2"/>
+  <rect x="68" y="66" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="68" y="151" fill="#F4FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Amner Llamo</text>
+  <text x="70" y="198" fill="#BBD5E2" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing=".3">Desarrollo backend · Java · Spring Boot · IA aplicada</text>
+  <rect x="70" y="230" width="146" height="34" rx="17" fill="#1D5361" stroke="#4CC9C0" stroke-opacity=".5"/>
+  <text x="143" y="252" text-anchor="middle" fill="#D7F8F5" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">LIMA, PERÚ</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1019" cy="157" r="98" stroke="#69C8CF" stroke-opacity=".18" stroke-width="1.5"/>
+    <circle cx="1019" cy="157" r="65" stroke="#69C8CF" stroke-opacity=".3" stroke-width="1.5"/>
+    <path d="M913 224L976 159L1019 185L1085 99M977 159L1019 111L1085 99M1019 185L1105 210" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M913 224H883M1105 210H1140" stroke="#69C8CF" stroke-opacity=".35" stroke-width="2"/>
+  </g>
+  <g fill="#0B2536" stroke="#72D6D1" stroke-width="3">
+    <circle cx="913" cy="224" r="8"/>
+    <circle cx="977" cy="159" r="8"/>
+    <circle cx="1019" cy="185" r="8"/>
+    <circle cx="1019" cy="111" r="8"/>
+    <circle cx="1085" cy="99" r="8"/>
+    <circle cx="1105" cy="210" r="8"/>
+  </g>
+  <circle cx="1144" cy="61" r="3" fill="#73C8DF" opacity=".8"/>
+  <circle cx="1170" cy="84" r="2" fill="#73C8DF" opacity=".6"/>
+  <circle cx="872" cy="78" r="2" fill="#73C8DF" opacity=".55"/>
+</svg>
+
